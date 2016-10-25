@@ -3,7 +3,7 @@ Various pipeline use scripts
 
 To gather samples from VirusTotal, use this file structure:
 
-* <sample name>
+* The root directory should be the name of the sample in question
   - ./bins -- Contains the downloaded binaries
   - ./samples -- Contains the hashes returned from date search
   - ./reports -- Contains the VT scan reports
